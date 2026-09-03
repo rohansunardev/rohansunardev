@@ -1,38 +1,94 @@
-<h1 align="center">Hi 👋, I'm Rohan Sunar</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansunardev&label=Profile%20views&color=0e75b6&style=flat" alt="rohansunardev" /> </p>
+  # Hi 👋, I'm Rohan Sunar
+  ### Frontend & Mobile Application Developer from Nepal
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohansunardev" alt="rohansunardev" /></a> </p>
+  <p>
+    <a href="https://rohansunar.com.np"><img src="https://img.shields.io/badge/Portfolio-rohansunar.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:rohansunar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rohansunar.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com/v"><img src="https://img.shields.io/badge/Instagram-rohansunar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://fb.com/rohansunar"><img src="https://img.shields.io/badge/Facebook-rohansunar-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <img src="https://komarev.com/ghpvc/?username=rohansunardev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-- 🔭 I’m currently working on [TaskFLow](https://github.com/rohansunardev/TaskFlow-Mobile-APP)
+</div>
 
-- 🌱 I’m currently learning **Flutter**
+---
 
-- 👯 I’m looking to collaborate on [App Store](https://github.com/rohansunardev/rohansunar-app-store)
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://rohansunar.com.np](https://rohansunar.com.np)
+- 🔭 Building high-performance mobile apps with **Flutter & Dart**
+- 💻 Actively maintaining [TaskFlow](https://github.com/rohansunardev/TaskFlow-Mobile-APP)
+- 🤝 Looking to collaborate on open-source app ecosystems like [App Store](https://github.com/rohansunardev/rohansunar-app-store)
+- 💬 Ask me about: **Full-stack architecture, cross-platform mobile UI, state management**
+- ⚡ Fun fact: *I switch between pixel-perfect frontend UI and full-stack backend APIs without missing a beat.*
 
-- 💬 Ask me about **Full Stack Dev**
+---
 
-- 📫 How to reach me **rohansunar.dev@gmail.com**
+### 🛠 Tech Stack & Tools
 
-- ⚡ Fun fact **I am a mobile APP Developer**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/rohansunar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohansunar" height="30" width="40" /></a>
-<a href="https://instagram.com/v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v" height="30" width="40" /></a>
+**Languages & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Backend, Cloud & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansunardev&show_icons=true&locale=en&layout=compact" alt="rohansunardev" /></p>
+**Design & Dev Tools**
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohansunardev&show_icons=true&locale=en" alt="rohansunardev" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohansunardev&" alt="rohansunardev" /></p>
+### 🚀 Featured Projects
 
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **TaskFlow Mobile App** | Feature-packed productivity and workflow organizer built for mobile. | Flutter, Dart, Firebase | [Repository](https://github.com/rohansunardev/TaskFlow-Mobile-APP) |
+| **Rohan Sunar App Store** | An application marketplace showcase repository. | Full Stack | [Repository](https://github.com/rohansunardev/rohansunar-app-store) |
+| **Developer Portfolio** | Personal portfolio highlighting client work, live demos, and UI designs. | Web Stack | [Live Demo](https://rohansunar.com.np) |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- GitHub Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rohansunardev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="175" alt="Rohan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansunardev&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Top Languages" />
+
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohansunardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohansunardev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+  <br/><br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rohansunardev&theme=tokyonight&no-frame=true&column=6" alt="Trophies" />
+
+</div>
