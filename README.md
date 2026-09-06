@@ -1,94 +1,111 @@
-<div align="center">
-
-  # Hi 👋, I'm Rohan Sunar
-  ### Frontend & Mobile Application Developer from Nepal
-
-  <p>
-    <a href="https://rohansunar.com.np"><img src="https://img.shields.io/badge/Portfolio-rohansunar.com.np-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:rohansunar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-rohansunar.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://instagram.com/v"><img src="https://img.shields.io/badge/Instagram-rohansunar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://fb.com/rohansunar"><img src="https://img.shields.io/badge/Facebook-rohansunar-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=rohansunardev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Building high-performance mobile apps with **Flutter & Dart**
-- 💻 Actively maintaining [TaskFlow](https://github.com/rohansunardev/TaskFlow-Mobile-APP)
-- 🤝 Looking to collaborate on open-source app ecosystems like [App Store](https://github.com/rohansunardev/rohansunar-app-store)
-- 💬 Ask me about: **Full-stack architecture, cross-platform mobile UI, state management**
-- ⚡ Fun fact: *I switch between pixel-perfect frontend UI and full-stack backend APIs without missing a beat.*
-
----
-
-### 🛠 Tech Stack & Tools
-
-**Languages & Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
-
-**Backend, Cloud & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-</p>
-
-**Design & Dev Tools**
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **TaskFlow Mobile App** | Feature-packed productivity and workflow organizer built for mobile. | Flutter, Dart, Firebase | [Repository](https://github.com/rohansunardev/TaskFlow-Mobile-APP) |
-| **Rohan Sunar App Store** | An application marketplace showcase repository. | Full Stack | [Repository](https://github.com/rohansunardev/rohansunar-app-store) |
-| **Developer Portfolio** | Personal portfolio highlighting client work, live demos, and UI designs. | Web Stack | [Live Demo](https://rohansunar.com.np) |
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-  <!-- GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rohansunardev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="175" alt="Rohan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohansunardev&layout=compact&hide_border=true&theme=tokyonight" height="175" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohansunardev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohansunardev&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-
-  <br/><br/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rohansunardev&theme=tokyonight&no-frame=true&column=6" alt="Trophies" />
-
-</div>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1180" height="530" viewBox="0 0 1180 530" fontsize="15px">
+<style>
+@font-face {
+  src: local('Consolas'), local('Consolas Bold');
+  font-family: 'ConsolasFallback';
+  font-display: swap;
+  -webkit-size-adjust: 109%;
+  size-adjust: 109%;
+}
+.key      { fill: #5EEAD4; }   
+.value    { fill: #E5E7EB; }   
+.cc       { fill: #5f6b7a; }   
+.addColor { fill: #39ff14; }   
+.delColor { fill: #ef4444; }   
+text, tspan { white-space: pre; }
+</style>
+<rect width="1180px" height="530px" fill="#0a0b10" rx="15" stroke="rgba(0, 240, 255, 0.15)" stroke-width="2"/>
+<g transform="translate(22,20) scale(0.42,0.88)">
+<text x="0" y="0" fill="#00f0ff" class="ascii">
+<tspan x="-10" y="-30">=========================================================================================================--------:::::::::::::</tspan>
+<tspan x="-10" y="-21">=========================================================================================-----------=======--------:::::::::::</tspan>
+<tspan x="-10" y="-12">=====================================================================================------------------=====-------:::::::::::</tspan>
+<tspan x="-10" y="-3">===================================================================================----------------------==---------::::::::::</tspan>
+<tspan x="-10" y="6">=====+=======================================================================-----------------------------------------::::::::</tspan>
+<tspan x="-10" y="15">===============================================+====++++++++================------------------------------------------::::::::</tspan>
+<tspan x="-10" y="24">============================================+++++++++++++***++===============--------------------------------------------:::::</tspan>
+<tspan x="-10" y="33">============================================++++**++*********+++============-------------------------------------------------:</tspan>
+<tspan x="-10" y="42">=======================================++*=++**+******************==========-----------------------------------------===------</tspan>
+<tspan x="-10" y="51">===================================++++++++************************+=====-----------------------------------===============---</tspan>
+<tspan x="-10" y="60">==================================+**********************************===-------------------------------------===============--</tspan>
+<tspan x="-10" y="69">=================================+++********+++===========++**********++--------------::::::::::------------------==========--</tspan>
+<tspan x="-10" y="78">=================================++*******++=================+**********=:::::::::::::::::::::::::::::::::::-----------======-</tspan>
+<tspan x="-10" y="87">======================-----------=******++=====================+*******+::::::::::::::::::::::::::::::::::::::::::------------</tspan>
+<tspan x="-10" y="96">=======-=========-----------------+*****+=======--======-========******-:::::::::::::::::::::::::::::::::::::::::::::---------</tspan>
+<tspan x="-10" y="105">===--------------------::::-------=*****+========++======+****+++=+***+::::::::::::::::::::::::::::::::::::::::::::::::-------</tspan>
+<tspan x="-10" y="114">==-----------------::::::::::::----****=====++**++++++==++++++=++==**-::::::::::::::::::::::::::::::::::::::::::::::::--------</tspan>
+<tspan x="-10" y="123">==-----------------::::::::::::::::-***===+++++***++==-==+*=**+++==-+::::::::::::::::::::::::::::::::-------------------------</tspan>
+<tspan x="-10" y="132">===-------========---:::::::::::::::-**====++++++++===--============++-:::::::::::::-:::--:::::-------------------------------</tspan>
+<tspan x="-10" y="141">======================--::::::----:=+=++==============---===------====--------------------------------------------------------</tspan>
+<tspan x="-10" y="150">==========++++++++++====-----------++=++=====----========+============--------------------------------------------------------</tspan>
+<tspan x="-10" y="159">=========+++++++++++++===----------===+=============+++++=============----:---------------------------------------------------</tspan>
+<tspan x="-10" y="168">===+++++++++++++++++++===-----------==================================---:::--------------------------------------------------</tspan>
+<tspan x="-10" y="177">===++++++++++++++++++++==-------------===========++++*****++**++=====---::::::------------------------------------------------</tspan>
+<tspan x="-10" y="186">=========++++++++++++++==----------------========++===+++++++==+++==::--------::----------------------------------------------</tspan>
+<tspan x="-10" y="195">====----==+++++++++++++=-----------------====++++++============++++======+++=-:::---------------------------------------------</tspan>
+<tspan x="-10" y="204">====------=++====++====------=====--==---====+++++++=====+==++++*++====++-=+*--:::-------=====--------------------------------</tspan>
+<tspan x="-10" y="213">=====----------------------===================++++++++*+******++++===++==-::-+-::::::-==========------------------------------</tspan>
+<tspan x="-10" y="222">==++==---------------:-----====================+++++++++++++++++++===++------=::::::::::-=========------======================</tspan>
+<tspan x="-10" y="231">+++++==----------:::::::----===============:---=+==+++++++++++++++==+--------:-----::::::::===================================</tspan>
+<tspan x="-10" y="240">========------::::::::::::-----===--====:::-+-=+++=++++++++++++++++=--------------:::---------::==============================</tspan>
+<tspan x="-10" y="249">==========---:::::::::::::::::::::---:-=-:-----+++==++++++++++++++-------------=---====-:::::-==-:=============++++++=========</tspan>
+<tspan x="-10" y="258">==--------:::::::::::::::::::::::::::-===------+**+==++++++++++++---------=====+*+=------::::::::=-=====++++++++++++++++======</tspan>
+<tspan x="-10" y="267">-------::::::::::::::::::::::::::::::::-:=-----=+*+++++++++++++=-------===++++==--------::::::::::::=+=+++++++++++++++++======</tspan>
+<tspan x="-10" y="276">----:::::::::::::::::::::::::::::::::-----------=*=+++++++++++---=---==++++====--------:-----::::--:::-++++++++++++++=========</tspan>
+<tspan x="-10" y="285">-:::::::::::::::::::::::::::::::::::---=--------=**+++*******---==++==+======----------------------:::-:-++++++++++===========</tspan>
+<tspan x="-10" y="294">::::::::::::::::::::::::::::::::::------=++=----=**+*+******-=++++++-====----------------------------:::-:-+++++++============</tspan>
+<tspan x="-10" y="303">::::::::::::::::::::::::::::::::---------=++++=-=*****++++=-===++===-=----------------------------------:::-++++++============</tspan>
+<tspan x="-10" y="312">::::::::::::::::::::::::::::::-----------+=-=====-=*****+-===+=------=-------------------------------::::::::-++==============</tspan>
+<tspan x="-10" y="321">::::::::::::::::::::::::::::-------------+=----=---=+**=-===---------=-----------------------------:----:--=--:=====----======</tspan>
+<tspan x="-10" y="330">::::::::-:::::::::::::=-:::-------------==----------+==-=------------=--------------------------------=-----::-=--------======</tspan>
+<tspan x="-10" y="339">:::::::::--::-:::::::-==-:--------------=-----------=--=-----------------------------==---=--------=-==------::::--------=====</tspan>
+<tspan x="-10" y="348">:::::::::-++==+-::==-=-=+:--------------==----------++-------------------------------==--=---------==--------::-::------======</tspan>
+<tspan x="-10" y="357">::::::-:::-=+++=++++-+++=:--------------==----------+-----------------=--------------+==-=----=--===----------:-::------======</tspan>
+<tspan x="-10" y="366">::::::--::----=-=-=+++++:---------------=-----------+-----------------=--------------++==---=---===------------:--:-----======</tspan>
+<tspan x="-10" y="375">===-::::-:-------=++-+==---------------==----------=+-----------------=--------------+===--=---====------------::-----========</tspan>
+<tspan x="-10" y="384">++*=::::-------:::--=------------------==----------+=--------------------------------=====----=====-------------:---==========</tspan>
+<tspan x="-10" y="393">+-::::::--------=-----:----------------=-----------+---------------------------------=++++=+=======--------------:--:=========</tspan>
+<tspan x="-10" y="402">::::::::------===---------=-----------=+-----------+------------------==-------------=++++++======---------------:---=========</tspan>
+<tspan x="-10" y="411">::::::::-----=++-----:----===---------==----------==-------------------=--------------=++++====+=----------------::---========</tspan>
+<tspan x="-10" y="420">::::::------=+++-----------==---------==----------+------------------=-=--------------=++++====+=------::---------::--========</tspan>
+<tspan x="-10" y="429">:::::::----=====----:------===--------+-----------+-=------------------=---------------=+++===+=-----:::---::::-:--::----=====</tspan>
+<tspan x="-10" y="438">::::::-----======-----------===------=+----------==--------------------=----------------==++==+=---::----------:::::::---=====</tspan>
+<tspan x="-10" y="447">::::::::---====-==---------====------==----------+--------------------=-=---------------==++====-----===========---:::----====</tspan>
+<tspan x="-10" y="456">:::::-----====----=---------====-----+-----------+--------------------===-------------===++*===--==+++++++=+++++====-::----===</tspan>
+<tspan x="-10" y="465">++++++++++++=------------------=-----+----------==----------------------=----------====++++++==-==**=-------=========-:----===</tspan>
+<tspan x="-10" y="474">+===++++=+++=------:------------=---==----------+----------------------===------=============+==++==-======--------===-======+</tspan>
+<tspan x="-10" y="483">=====+===+++=--------=============--=-------:---+----------------------===----================+++=====-----------------=======</tspan>
+<tspan x="-10" y="492">=========++=------:-=--====+++*+++-=+----------+=----------------------=-=-======------===---=+*----::::::::::----------------</tspan>
+<tspan x="-10" y="501">=========++=------===============+-==----------+-----------------------=-=====---------------=++===--------==----=====-:-:::::</tspan>
+<tspan x="-10" y="510">=========+==------+--------==++==+-=----------==-=--------------------==-==-----------------==+=-::---------====++++==-:::::::</tspan>
+<tspan x="-10" y="519">=====+++++==-------=---=-----===+*------------+----------------------=====-----------------:--::-----====--------=====--------</tspan>
+<tspan x="-10" y="528">===++++++++===-------::---------==------------+---------------------===--==-------------=-----------:-------------------------</tspan>
+<tspan x="-10" y="537">==+++++++++===-----------:--===+++-----------=+--------------------------====--------::::::--------======-----------=------===</tspan>
+</text>
+</g>
+<text x="500" y="30" fill="#E5E7EB">
+<tspan x="520" y="30" fill="#00f0ff" fontsize="17px">SIDDHUX9@Neural-grid</tspan> -———————————————————————————————————————————-—-
+<tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">Rohan sunar</tspan>
+<tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Blockchain &amp; Full Stack Dev</tspan>
+<tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Age</tspan><tspan class="cc" id="age_dots"> .......... </tspan><tspan class="value" id="age_data">21 years, 7 months, 10 days</tspan>
+<tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc"> ........... </tspan><tspan class="value">Building • Learning • Shipping</tspan>
+<tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc"> ............. </tspan><tspan class="value">VS Code, Git, Foundry, Hardhat</tspan>
+<tspan x="520" y="150" class="cc">. </tspan>
+<tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Solidity, Rust, TS, JS, Python</tspan>
+<tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">LangChain, OpenAI, LLMs</tspan>
+<tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML/CSS, React, Next.js, Tailwind</tspan>
+<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Suprabase, Postgres</tspan>
+<tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">EVM, Smart Contracts, AggLayer</tspan>
+<tspan x="520" y="270" class="cc">. </tspan>
+<tspan x="520" y="290" fill="#ff007f">- Contact</tspan> -————————————————————————————————________________—————-—-
+<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">rohansunar.dev@gmail.com</tspan>
+<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">rohansunar.com.np</tspan>
+<tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">rohansunardev</tspan>
+<tspan x="520" y="370" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">rohansunardev</tspan>
+<tspan x="520" y="410" fill="#ff007f">- GitHub Stats</tspan> -————————————————————————————————________________-—-
+<tspan x="520" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_dots"> .. </tspan><tspan class="value" id="repo_data">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">29</tspan>   }  | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_dots"> .......... </tspan><tspan class="value" id="star_data">13</tspan>
+<tspan x="520" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_dots"> .................. </tspan><tspan class="value" id="commit_data">85</tspan>       | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_dots"> ...... </tspan><tspan class="value" id="follower_data">12</tspan>
+<tspan x="520" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_dots">. </tspan><tspan class="value" id="loc_data">156,151</tspan> ( <tspan class="addColor" id="loc_add">158,647</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots">. </tspan><tspan class="delColor" id="loc_del">2,496</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
