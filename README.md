@@ -86,23 +86,23 @@ text, tspan { white-space: pre; }
 </g>
 <text x="500" y="30" fill="#E5E7EB">
 <tspan x="520" y="30" fill="#00f0ff" fontsize="17px">SIDDHUX9@Neural-grid</tspan> -———————————————————————————————————————————-—-
-<tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">Rohan sunar</tspan>
+<tspan x="520" y="50" class="cc">. </tspan><tspan class="key">Subject</tspan><tspan class="cc"> ............................ </tspan><tspan class="value">Siddhu Singh</tspan>
 <tspan x="520" y="70" class="cc">. </tspan><tspan class="key">Role</tspan><tspan class="cc"> .......... </tspan><tspan class="value">Blockchain &amp; Full Stack Dev</tspan>
-<tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Age</tspan><tspan class="cc" id="age_dots"> .......... </tspan><tspan class="value" id="age_data">21 years, 7 months, 10 days</tspan>
+<tspan x="520" y="90" class="cc">. </tspan><tspan class="key">Age</tspan><tspan class="cc" id="age_dots"> .......... </tspan><tspan class="value" id="age_data">20 years, 7 months, 6 days</tspan>
 <tspan x="520" y="110" class="cc">. </tspan><tspan class="key">Status</tspan><tspan class="cc"> ........... </tspan><tspan class="value">Building • Learning • Shipping</tspan>
 <tspan x="520" y="130" class="cc">. </tspan><tspan class="key">ToolChain</tspan><tspan class="cc"> ............. </tspan><tspan class="value">VS Code, Git, Foundry, Hardhat</tspan>
 <tspan x="520" y="150" class="cc">. </tspan>
 <tspan x="520" y="170" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Core</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Solidity, Rust, TS, JS, Python</tspan>
 <tspan x="520" y="190" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">AI</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">LangChain, OpenAI, LLMs</tspan>
 <tspan x="520" y="210" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Frontend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML/CSS, React, Next.js, Tailwind</tspan>
-<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Suprabase, Postgres</tspan>
+<tspan x="520" y="230" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Node.js, Express, MongoDB, Postgres</tspan>
 <tspan x="520" y="250" class="cc">. </tspan><tspan class="key">Neural</tspan>.<tspan class="key">Stack</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">EVM, Smart Contracts, AggLayer</tspan>
 <tspan x="520" y="270" class="cc">. </tspan>
 <tspan x="520" y="290" fill="#ff007f">- Contact</tspan> -————————————————————————————————________________—————-—-
-<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">rohansunar.dev@gmail.com</tspan>
-<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">rohansunar.com.np</tspan>
-<tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">rohansunardev</tspan>
-<tspan x="520" y="370" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">rohansunardev</tspan>
+<tspan x="520" y="310" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Mail</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">siddhu3116@gmail.com</tspan>
+<tspan x="520" y="330" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Portfolio</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">siddhu.info</tspan>
+<tspan x="520" y="350" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">siddhu-singh</tspan>
+<tspan x="520" y="370" class="cc">. </tspan><tspan class="key">Grid</tspan>.<tspan class="key">Github</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">SIDDHUX9</tspan>
 <tspan x="520" y="410" fill="#ff007f">- GitHub Stats</tspan> -————————————————————————————————________________-—-
 <tspan x="520" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_dots"> .. </tspan><tspan class="value" id="repo_data">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">29</tspan>   }  | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_dots"> .......... </tspan><tspan class="value" id="star_data">13</tspan>
 <tspan x="520" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_dots"> .................. </tspan><tspan class="value" id="commit_data">85</tspan>       | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_dots"> ...... </tspan><tspan class="value" id="follower_data">12</tspan>
